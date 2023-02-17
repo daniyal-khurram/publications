@@ -1,6 +1,3 @@
-# publications
-PDF's of technical publications
-
 # Abstracts:
 
 
